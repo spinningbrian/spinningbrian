@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @spinningbrian
+- 👀 I’m interested in rapidly gaining skills in data analysis and data science
+- 🌱 I’m currently learning Python for data analysis
+- 💞️ I’m looking to collaborate on sonification and other novel data representation projects
+- 📫 How to reach me email... username@gmail.com
